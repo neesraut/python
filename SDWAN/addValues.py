@@ -13,5 +13,6 @@ from DataTypes import DataTypes
 listA = ["Apple", "Orange", "Mango"]
 
 dt = DataTypes(listA)
-print(dt.list[0])
+print("First element is: "+ dt.list[0])
 
+print(dt.list[0:2])
