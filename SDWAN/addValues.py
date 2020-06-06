@@ -18,3 +18,6 @@ print("First element is: "+ dt.list[0])
 print(dt.list[0:2])
 dt.list[0]="Watermelon"
 print(dt.list)
+
+for eachFruit in dt.list:
+    print("The elements in dt list= " + eachFruit)
