@@ -6,3 +6,5 @@ class DataTypes:
         self.list = listA
         print(list)
 
+
+
