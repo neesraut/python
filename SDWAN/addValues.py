@@ -13,5 +13,5 @@ from DataTypes import DataTypes
 listA = ["Apple", "Orange", "Mango"]
 
 dt = DataTypes(listA)
-
+print(dt.list[0])
 
