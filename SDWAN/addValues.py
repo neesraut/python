@@ -21,3 +21,10 @@ print(dt.list)
 
 for eachFruit in dt.list:
     print("The elements in dt list= " + eachFruit)
+
+if "apple" in dt.list:
+    print("yes the apple in list")
+else:
+    print("No apple")
+#using index in for loop
+
