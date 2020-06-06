@@ -16,3 +16,5 @@ dt = DataTypes(listA)
 print("First element is: "+ dt.list[0])
 
 print(dt.list[0:2])
+dt.list[0]="Watermelon"
+print(dt.list)
